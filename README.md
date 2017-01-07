@@ -10,6 +10,7 @@ $ brew install glew
 
 ## Original README
 
+```
 This is the source code for the "hello world" OpenGL application described in
 chapter 2 of Joe Groff's OpenGL tutorial: 
 
@@ -20,4 +21,5 @@ GLEW <http://glew.sourceforge.net/> libraries to compile this program. It also
 requires OpenGL 2.0 or later.
 
 Do whatever you like with this source code.
+```
 
