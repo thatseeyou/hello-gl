@@ -1,6 +1,14 @@
+## Xcode 8 project
 This is the forked project converted to Xcode 8 project.
 
-----
+### install GLEW in macOS
+
+```
+$ brew install glew
+```
+
+
+## Original README
 
 This is the source code for the "hello world" OpenGL application described in
 chapter 2 of Joe Groff's OpenGL tutorial: 
