@@ -36,7 +36,6 @@
 
 /* Begin PBXFileReference section */
 		AA56FBBD1E214AF4004B2D72 /* hello-gl */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "hello-gl"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AA56FBC01E214AF4004B2D72 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		AA56FBC71E214C5F004B2D72 /* util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = util.h; sourceTree = SOURCE_ROOT; };
 		AA56FBC81E214C5F004B2D72 /* hello-gl.f.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "hello-gl.f.glsl"; sourceTree = SOURCE_ROOT; };
 		AA56FBC91E214C5F004B2D72 /* hello-gl.v.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "hello-gl.v.glsl"; sourceTree = SOURCE_ROOT; };
@@ -89,7 +88,6 @@
 				AA56FBCC1E214C5F004B2D72 /* hello-gl-dummy.c */,
 				AA56FBCD1E214C5F004B2D72 /* hello-gl.c */,
 				AA56FBCE1E214C5F004B2D72 /* util.c */,
-				AA56FBC01E214AF4004B2D72 /* main.c */,
 			);
 			path = "hello-gl";
 			sourceTree = "<group>";
